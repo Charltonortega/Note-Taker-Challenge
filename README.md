@@ -1,4 +1,3 @@
-
 # Express.js Note Taker challenge
 
 ## Features 🌟
@@ -13,13 +12,17 @@ The Note Taker App is a web-based application built using Express.js that allows
 ## Screenshot 📸
 
 <div style="text-align:center">
-  <img src="./assets/images/11-express-homework-demo-01.png" alt="App Screenshot" width="50%"/>
+  <img src="./assets/images/11-express-homework-demo-01.png" alt="App Screenshot" width="75%"/>
+</div>
+
+<div style="text-align:center">
+  <img src="./assets/images/clogmiddleware.png" alt="Clog Middleware" width="75%"/>
 </div>
 
 ## Demo GIF 🚀
 
 <div align="center">
-  <img src="./assets/images/demo.gif" alt="App Demo GIF" width="50%">
+  <img src="./assets/images/demo.gif" alt="App Demo GIF" width="75%">
 </div>
 
 ## Deployment 🚀
@@ -31,6 +34,12 @@ Follow these steps to deploy the application:
 3. Install dependencies: `npm install`
 4. Configure environment variables, if needed.
 5. Deploy to your preferred platform (Heroku).
+
+
+### Links
+
+- [Live Demo](https://fierce-oasis-48322-3eba358fcf44.herokuapp.com/)
+- [Github](https://github.com/Charltonortega/Note-Taker-Challenge)
 
 ## Setup 🛠
 
