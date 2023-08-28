@@ -11,7 +11,7 @@ router.get('/notes', (req, res) => {
 
 // POST /api/notes - Create a new note
 router.post('/notes', (req, res) => {
-    const newNote = req.body;
+    const newNote = req.body; // extract data from the newNote from the request body
     newNote.id = uuid(); // Generate a unique ID for the note
     const notes = fsUtils.readNotes(); // Read existing notes
     notes.push(newNote); // Add the new note
