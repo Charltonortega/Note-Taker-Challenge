@@ -25,18 +25,18 @@ Features:
 
 Follow these steps to deploy the application:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-project.git`
-2. Navigate to the project directory: `cd your-project`
+1. Clone the repository: `git@github.com:Charltonortega/Note-Taker-Challenge.git`
+2. Navigate to the project directory: `cd notetaker11`
 3. Install dependencies: `npm install`
 4. Configure environment variables, if needed.
-5. Deploy to your preferred platform (e.g., Heroku, Netlify).
+5. Deploy to your preferred platform (Heroku).
 
 ## Setup 🛠
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-project.git`
-2. Navigate to the project directory: `cd your-project`
+1. Clone the repository: `git clone git@github.com:Charltonortega/Note-Taker-Challenge.git`
+2. Navigate to the project directory: `cd notetaker11`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
 5. Open your browser and go to `http://localhost:3000`.
@@ -52,6 +52,7 @@ To set up the project locally, follow these steps:
 - [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js.
 - [uuid](https://www.npmjs.com/package/uuid) - Generate RFC-compliant UUIDs using Node.js.
 - [Bootstrap](https://getbootstrap.com/) - The world’s most popular front-end open-source toolkit.
+- 
 
 ## Contributing 🤝
 
